@@ -1,5 +1,6 @@
 {
   "active":true,
   "text": "this is a banner",
-  "link": "https://docs.jup.ag"
+  "link": "https://docs.jup.ag",
+  "color: "#FFFFFF"
 }
