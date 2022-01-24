@@ -1,6 +1,13 @@
-{
-  "id":1,
-  "active":true,
-  "text": "this is a banner",
-  "link": "https://docs.jup.ag"
-}
+[
+    {
+        "id": 1,
+        "active": true,
+        "message": [
+            "We have just released Jupiter SDK v1.0-beta! ",
+            {
+                "title": "Visit Forum",
+                "link": "https://discuss.jup.ag/t/jupiter-sdk-v1-0-beta-now-available/15"
+            }
+        ]
+    }
+]
